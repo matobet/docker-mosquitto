@@ -5,7 +5,7 @@ Docker image for mosquitto configured to be used as part of push infrastructure 
 
 ## Run
 
-	docker run -ip 1883:1883 matobet/mosquitto
+	docker run -tip 1883:1883 matobet/mosquitto
 
 
 Exposes Port 1883
