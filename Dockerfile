@@ -1,6 +1,8 @@
+# KUDOS TO Thomas Kerpe <thomas@kerpe.net>
+
 FROM debian:stable
 
-MAINTAINER Thomas Kerpe <thomas@kerpe.net>
+MAINTAINER Martin Betak <matobet@gmail.com>
 
 
 RUN apt-get update

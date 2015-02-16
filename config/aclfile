@@ -1,0 +1,6 @@
+# This affects access control for clients with no username.
+topic read #
+
+# This only affects clients with username "doctor".
+user doctor
+topic #
